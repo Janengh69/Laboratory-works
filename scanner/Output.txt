@@ -1,0 +1,398 @@
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 6, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 6, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 6, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 6, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 7
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+Index: 7, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 7
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+Index: 7, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 5, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 6, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 6, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 6, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 6
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+Index: 6, manufacturer: Asus, year: 2009, model: AS1055, price: 99.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+
+Number of elements 5
+Index: 0, manufacturer: ASUS, year: 2009, model: AsScan, price: 299.990, x_size: 210, y_size: 297
+Index: 1, manufacturer: Dell, year: 2006, model: DellScan1, price: 999.990, x_size: 210, y_size: 297
+Index: 2, manufacturer: Dell, year: 2005, model: DellScan2, price: 999.990, x_size: 210, y_size: 297
+Index: 3, manufacturer: Epson, year: 2008, model: V37, price: 1248.500, x_size: 210, y_size: 297
+Index: 4, manufacturer: ASUS, year: 2007, model: AsScan7, price: 999.990, x_size: 210, y_size: 297
+

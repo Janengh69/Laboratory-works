@@ -1,0 +1,203 @@
+#include "CBinTree.h"
+
+//constructor
+CBinTree::CBinTree() {
+	root = nullptr;
+}
+//constructor that builds tree from csv with help of method makeDictionary
+CBinTree::CBinTree(string path) {
+	root = nullptr;
+	makeDictionary(path);
+}
+//destructor
+CBinTree::~CBinTree() {
+	deleteNode(root);
+}
+//getter for root of the tree
+//returns the adress of the root
+CTreeNode* CBinTree::getRoot() {
+	return root;
+}
+//method addWord adds new English word with Italian translation and
+//the page to the Dictionary. 
+void CBinTree::addWord(CTreeNode * node) {
+	if (node == nullptr) {
+		return;
+	}
+	else if (root == nullptr) {
+		root = node;
+		return;
+	}
+	CTreeNode * current = root;
+	CTreeNode * parent = root;
+	while (current != nullptr) {
+		parent = current;
+		if (node->getEngWord().compare(current->getEngWord()) < 0) {
+			current = current->getLeft();
+			if (current == nullptr) parent->setLeft(node);
+		}
+		else if (node->getEngWord().compare(current->getEngWord()) > 0) {
+			current = current->getRight();
+			if (current == nullptr) parent->setRight(node);
+		}
+		else {
+			current->setItalWord(node->getItalWord());
+			current->setPage(node->getPage());
+			break;
+		}
+	}
+}
+//method addNode gets the information from the user about the word that 
+// user wants to add to the dictionary and adds with help of method addWord
+void CBinTree::addNode() {
+
+	string engWord;
+	string italWord;
+	int page = 0;
+	CTreeNode *node = new CTreeNode();
+	cout << "\nWrite the word in English: ";
+	getline(cin, engWord);
+	cout << "\nWrite the word in English: ";
+	getline(cin, italWord);
+	cout << "\nWrite the page: ";
+	cin >> page;
+	node->setEngWord(engWord);
+	node->setItalWord(italWord);
+	node->setPage(page);
+	if (this->root != nullptr)
+		this->addWord(node);
+	else
+		root = node;
+}// method makeDictionary reads lines from csv-file (getline) until kommas and 
+// separetes them into English(eng), Italian(ital), Page(page) words
+
+void CBinTree::makeDictionary(string path) {
+	ifstream file;
+	file.open(path, ios_base::in);
+	if (!file.is_open()) {
+		cout << "Cannot open file" << endl;
+		return;
+	}
+	int page;
+	string eng, ital, tmp;
+	while (!file.eof()) {
+		getline(file, eng, ',');
+	//	cout << eng << endl;
+		getline(file, ital, ',');
+	//	cout << ital << endl;
+		file >> page;
+		getline(file, tmp, '\n');
+		addWord(new CTreeNode(eng, ital, page));
+	}
+	file.close();
+}
+//method deleteWord deletes the element of the tree
+
+void CBinTree::deleteWord(string eng) {
+	if (root == nullptr) return;
+	if (eng == "") return;
+	else {
+		CTreeNode * current = root;
+		CTreeNode * parent = root;
+		while (eng.compare(current->getEngWord()) != 0) {
+			parent = current;
+			if (eng.compare(current->getEngWord()) < 0){
+				current = current->getLeft();
+			}
+			else current = current->getRight();
+			if (current == nullptr) return;
+		}
+
+		if (current->getLeft() == nullptr && current->getRight() == nullptr) {
+			 if (current == root) root = nullptr; 
+			 else if(parent->getLeft() == current)
+				 parent->setLeft(nullptr);
+			else 
+				 parent->setRight(nullptr);
+		}
+		else if (current->getLeft() == nullptr) {
+			if (current == parent->getRight())
+				parent->setRight(current->getRight());
+			else
+				parent->setLeft(current->getRight());
+		}
+		else if (current->getRight() == nullptr) {
+			if (parent->getRight() == current)
+				parent->setRight(current->getLeft());
+			else 
+				parent->setLeft(current->getLeft());
+		}
+		
+		else {
+			CTreeNode *tmp = findMin(current->getRight());
+			string tmpWord = tmp->getEngWord();
+			current->setItalWord(tmp->getItalWord());
+			current->setPage(tmp->getPage());
+			this->deleteWord(tmpWord);
+			current->setEngWord(tmpWord);
+		}
+		return;
+	}
+}
+// method printWordByEngWord and findbyEngWord find Italien equivalent to English word and prints it
+void CBinTree::printWordsByEngWord(string word) {
+	if (root == nullptr) return;
+	this->findByEngWord(this->root, word, false);
+}
+void CBinTree::findByEngWord(CTreeNode *root, string name, bool* flag) {
+	if (root == nullptr)
+		return;
+	else {
+		if ((root->getEngWord().compare(name) == 0)) {
+			cout << "Italian Word: " << root->getItalWord() << "  Page: " << root->getPage() << endl;
+			*flag = true;
+		}
+		findByEngWord(root->getLeft(), name, flag);
+		findByEngWord(root->getRight(), name, flag);
+	}
+}
+//method showTree and printNode print the whole tree
+void CBinTree::showTree() {
+	printNode(root);
+}
+void CBinTree::printNode(CTreeNode *root)
+{
+	if (root == nullptr)
+		return;
+	else {
+	printNode(root->getRight());
+	cout << setw(20) << root->getEngWord();
+	cout << setw(15) << root->getItalWord();
+	cout << setw(20) << root->getPage() << endl;
+	printNode(root->getLeft());
+	}
+}
+// returns the min element
+CTreeNode * CBinTree::findMin(CTreeNode * min) {
+	CTreeNode * current = min;
+	while (current->getLeft() != nullptr) current = current->getLeft();
+	return current;
+}
+// deletes Leaf of the tree
+void CBinTree::deleteNode(CTreeNode *node) {
+	if (node != nullptr) {
+		this->deleteNode(node->getLeft());
+		this->deleteNode(node->getRight());
+		delete node;
+	}
+}
+//prints all the words that are on the certain page
+void CBinTree::printByPage(CTreeNode *root, int page, bool *flag) {
+	if (root == nullptr)
+		return;
+	else {
+		printByPage(root->getRight(), page, flag);
+		if ((root->getPage() == page)) {
+			cout << "English: " <<root->getEngWord() << " Italian: " << root->getItalWord() << endl;
+			*flag = true;
+		}
+		printByPage(root->getLeft(), page, flag);
+
+	}
+}
+
