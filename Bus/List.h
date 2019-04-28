@@ -124,7 +124,7 @@ typename List<T>::iterator List<T>::find(const node_type& val) {
 template <class T>
 void List<T>::pop_front() {
 	ListNode *temp;
-	if (nullptr == head) {
+	if (!head) {
 		return;
 	}
 	temp = head->next;

@@ -2,8 +2,8 @@
 *file: Iterator.h 
 *purpose: template class used to traverse through the List container 
 *author: Dorosh Karuna
-*written: 27/01/2019
-*last modified: 31/01/2019
+*written: 27/02/2019
+*last modified: 31/02/2019
 *********************************************/
 #pragma once
 template <typename T>

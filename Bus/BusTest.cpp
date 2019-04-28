@@ -2,8 +2,8 @@
 *file: BusTest.cpp
 *purpose: testing mathods of classes List and Bus
 *author: Dorosh Karuna
-*written: 27/01/2019
-*last modified: 27/01/2019
+*written: 27/02/2019
+*last modified: 27/02/2019
 *********************************************/
 
 #include "List.h"
@@ -13,15 +13,21 @@ int main() {
 		Bus("Joy", "NB4842DS","87"),
 		Bus("Mary", "LK6583LD","103"),
 		Bus("Duke", "LD9567JT","45"),
-		Bus("Liza", "CB3649HF", "33"),
+		Bus(NULL, "CB3649HF", "33"),
 		Bus(),
 		Bus("Winton", "LR5674ER","345")
 	};
 	List<Bus> bus_list;
+	Bus b;
+	//b = (char *)"john";
+	//b.setNameDriver((char*)"john");
+	//bus_list.push_front(b);
+	
+	bus_list.push_front(b);
 	Bus *driver = new Bus("Sentimental", "SF123493", "42");
 	int sz = sizeof(buses) / sizeof(Bus);
 	for (int i = 0; i < sz; i++)
-		if (buses[i].getNameDriver() == nullptr)
+		if (buses[i].getNameDriver() == nullptr or buses[i].getBusNumber() == nullptr or buses[i].getRoutNumber() == nullptr)
 			continue;
 		else
 			bus_list.push_front(buses[i]);

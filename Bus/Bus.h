@@ -2,8 +2,8 @@
 *file: Bus.h
 *purpose: template class Bus declaration
 *author: Dorosh Karuna
-*written: 27/01/2019
-*last modified: 27/01/2019
+*written: 27/02/2019
+*last modified: 27/02/2019
 *********************************************/
 #pragma warning(disable : 4996)
 #include <iostream>
@@ -18,9 +18,9 @@ public:
 	char* getNameDriver();
 	char* getBusNumber();
 	char* getRoutNumber();
-	void setNameDriver(char*);
-	void setBusNumber(char*);
-	void setRoutNumber(char*);
+	void setNameDriver(const char*);
+	void setBusNumber(const char*);
+	void setRoutNumber(const char*);
 	Bus& operator = (const Bus & orig);
 	Bus& operator = (char*);
 	bool operator==(const Bus &obj);
